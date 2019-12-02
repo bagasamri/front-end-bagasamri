@@ -1,0 +1,39 @@
+.jumbotron {
+	background-image: url(img/jumbo.jpg);
+	background-size: cover;
+	height: 640px;
+	margin-top: 50px;
+}
+.jumbotron .display-4 {
+	margin-top: 150px;
+	margin-left: 520px;
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+}
+.jumbotron .lead{
+	margin-left: 520px;
+	color: white;
+	margin-top: 40px;
+}
+
+.jumbotron .btn {
+	margin-left: 520px;
+}
+.card {
+	width: 20rem;
+	margin-top: -150px;
+	margin-left: 50px;
+}
+.caard .dislplay-4 {
+	font-size: 25px;
+}
+hr {
+	width: 100px;
+	border-top: 3px solid #eaeaea;
+}
+
+.col-md-3 img {
+	margin-left: 50px;
+	margin-top: -20px;
+}
